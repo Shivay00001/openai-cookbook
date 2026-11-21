@@ -17,4 +17,6 @@ For other useful tools, guides and courses, check out these [related resources f
 
 ## License
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 MIT License
